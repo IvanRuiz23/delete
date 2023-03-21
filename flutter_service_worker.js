@@ -7,7 +7,7 @@ const RESOURCES = {
 "assets/assets/l.gif": "f4404720ece11355df318a0acf525cb1",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
-"assets/NOTICES": "4b120f071d81639051e31a6289830d5e",
+"assets/NOTICES": "c844eddb5ed4bb7a4e6ae244bcbb112a",
 "assets/packages/auth_buttons/images/default/apple.svg": "55dba81be7ba24dd88dbf9cc81de95e8",
 "assets/packages/auth_buttons/images/default/email.svg": "3082146f3f124a005b10db6fe3109fe7",
 "assets/packages/auth_buttons/images/default/facebook.svg": "042d64dc3864e72dee8ed5a25b514b11",
@@ -42,11 +42,11 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "f9336e15b559dfd6b779d5fb8a2202ee",
-"/": "f9336e15b559dfd6b779d5fb8a2202ee",
-"main.dart.js": "a1ddf5fa2dbfc306934556d7d10d19f3",
+"index.html": "10d22afae13d4bce01c068aacdde40a5",
+"/": "10d22afae13d4bce01c068aacdde40a5",
+"main.dart.js": "7bf7c605c53affdd7261f573281d5667",
 "manifest.json": "5a9e9197ff0495b36de191f960ee6fda",
-"version.json": "25e2f6d7a510abab03caf7e876eb59cf"
+"version.json": "6ce9bbeeefe2e4883b3ffb864995c282"
 };
 
 // The application shell files that are downloaded before a service worker can
